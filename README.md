@@ -1,9 +1,5 @@
 <div class="logoComLetra" style="display: flex; justify-content: center; align-items: center; ">
-    <img src="./assets/semFundoLogo.png" alt="Logo da UMBU" width="400px" align="center">
-    <a href="https://git.io/typing-svg" style="margin-top: -150px; margin-left: 370px;"><img
-            src="https://readme-typing-svg.herokuapp.com?font=Cantora+One&size=25&pause=1000&color=51C601&random=false&width=435&lines=Seu+jardim%2C+nossa+miss%C3%A3o!"
-            alt="Typing SVG" /></a>
-
+<img src="./assets/FINAL (1).gif" alt="Logo da UMBU" width="1200px" align="center">
 </div>
 
 <h1 align="center">UMBU - Plataforma de Conexão para Jardineiros e Clientes</h1>
@@ -20,6 +16,9 @@
 <img src="./assets/equipeIMG.PNG" alt="Equipe de Desenvolvimento" width="1200px" align="center">
 
 <h2>Fale conosco</h2>
+<div>
+<a href="https://linktr.ee/sejaumbu"><img src="https://github.com/sejaumbu/sejaumbu/assets/84331711/8c971524-c62a-4e4e-a47b-558e662bfd84" width="80px"></a>
+</div>
 
 <h2>Tecnologias usadas</h2>
 
@@ -43,14 +42,9 @@
 
 </div>
 
-
-
-
-<h3> Back-end </h3>
-
 <div class="centralizar" style="display: flex;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60px" />
+<h3> Back-end </h3>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="60px" />
 </div>
 
 
@@ -60,3 +54,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60px" />
 </div>
 
+
+<p>Juntos, estamos construindo um jardim virtual próspero! 🌿✨</p>
+
+<a href="https://git.io/typing-svg" style="margin-top: -150px; margin-left: 370px;"><img
+            src="https://readme-typing-svg.herokuapp.com?font=Cantora+One&size=25&pause=1000&color=51C601&random=false&width=435&lines=Seu+jardim%2C+nossa+miss%C3%A3o!"
+            alt="Typing SVG" /></a>
