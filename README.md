@@ -1,5 +1,5 @@
 <div class="logoComLetra" style="display: flex; flex-direction: column; justify-content: center; align-items: center; " >
-    <img src="./src/assets/semFundoLogo.png" alt="Logo da UMBU" width="400px" align="center">
+    <img src="./assets/semFundoLogo.png" alt="Logo da UMBU" width="400px" align="center">
     <a href="https://git.io/typing-svg" style="margin-top: -150px; margin-left: 370px;" ><img src="https://readme-typing-svg.herokuapp.com?font=Cantora+One&size=25&pause=1000&color=51C601&random=false&width=435&lines=Seu+jardim%2C+nossa+miss%C3%A3o!" alt="Typing SVG" /></a>
 
 </div>
